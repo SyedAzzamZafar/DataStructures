@@ -1,7 +1,9 @@
 ## Implementation of Data Structures & their various implementations
 
 #### *Linked Lists
-          * insertion
-          * deletion
-          * reversal
-     
+          * append
+          * deletenode
+          * insert middle
+          * printlist
+          * mergelist
+            *merge two sorted linklist into a new singly linked list
